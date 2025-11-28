@@ -1,0 +1,9 @@
+numpy>=1.24.0
+nibabel>=5.1.0
+pyvista>=0.42.0
+pyvistaqt>=0.11.0
+scikit-image>=0.21.0
+matplotlib>=3.7.0
+qtpy>=2.4.0
+PyQt5>=5.15.0
+torch>=2.0.0
