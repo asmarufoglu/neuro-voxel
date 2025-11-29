@@ -124,3 +124,5 @@ Data utilized in this project is part of the [Kaggle - BraTS20 Dataset](https://
 1.  **Menze BH, et al.** "The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)", IEEE Transactions on Medical Imaging 34(10), 1993-2024 (2015) DOI: 10.1109/TMI.2014.2377694
 2.  **Bakas S, et al.** "Advancing The Cancer Genome Atlas glioma MRI collections with expert segmentation labels and radiomic features", Nature Scientific Data, 4:170117 (2017) DOI: 10.1038/sdata.2017.117
 3.  **Bakas S, et al.** "Identifying the Best Machine Learning Algorithms for Brain Tumor Segmentation...", arXiv preprint arXiv:1811.02629 (2018)
+
+⚠️ Disclaimer: This software is for educational and research purposes only. It is not intended for clinical diagnosis or treatment planning.
